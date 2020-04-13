@@ -61,5 +61,3 @@ spec:
                         backend:
                             serviceName: spinning-containers-microservice-service
                             servicePort: 30201
-
-
